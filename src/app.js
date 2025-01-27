@@ -14,7 +14,8 @@ let who = [
   "My doctor",
   "My kid",
   "A driver",
-  "My goldfish"
+  "My goldfish",
+  "You're mom",
 ];
 let action = [
   "ate",
@@ -25,7 +26,8 @@ let action = [
   "lost",
   "flipped",
   "burned",
-  "froze"
+  "froze",
+  "stole",
 ];
 let what = [
   "my homework",
@@ -36,7 +38,8 @@ let what = [
   "my hair",
   "my computer",
   "the road",
-  "my keys"
+  "my keys",
+  "my clothes",
 ];
 let when = [
   "before the class",
@@ -47,7 +50,8 @@ let when = [
   "yesterday",
   "this morning",
   "after practice",
-  "last night"
+  "last night",
+  "While I was taking a shower",
 ];
 
 function getRandonNumber(min, max) {
